@@ -1,17 +1,17 @@
 # Books-Store
 trang chủ website
-![image](https://user-images.githubusercontent.com/74332737/173279086-87cabd8a-d791-452c-9aaa-1e3b972cb40c.png)
+![image](https://user-images.githubusercontent.com/72533359/173339125-ba542963-00d1-4689-8524-be606f29c11b.png)
 trang giỏ hàng 
 ![image](https://user-images.githubusercontent.com/74332737/173276925-17828ba1-7044-4598-896c-7abb9e41787f.png)
 trang đặt hàng
 ![image](https://user-images.githubusercontent.com/74332737/173276975-f7ffbc42-6ac2-4a4e-b49c-1d4e03fd5998.png)
 # các tính năng của web
 1- tính năng phân loại từng cuốn sách 
-![image](https://user-images.githubusercontent.com/74332737/173279168-77fef498-b973-4377-88b7-cb7487d126b8.png)
+![image](https://user-images.githubusercontent.com/72533359/173339236-0b7585d0-3eed-4965-8b34-5d4bcd3d893c.png)
 - giúp phân loại sách theo từng thể loại tìm kiếm
-- ![image](https://user-images.githubusercontent.com/74332737/173279270-0bf23ceb-c351-4fff-ac47-4c2e0e78ccfd.png)
+- ![image](https://user-images.githubusercontent.com/72533359/173339312-79a61941-30ec-46d1-b104-dd02f56699d3.png)
 2- tính năng thêm sách vào giỏ hàng
-![image](https://user-images.githubusercontent.com/74332737/173279359-8cc93c6b-8088-4ff8-93e2-d1fd4290ede9.png)
+![image](https://user-images.githubusercontent.com/72533359/173339409-21414511-dfa3-4d7d-a101-0ddd46d95f34.png)
 - khi nhấn nút add to cart thì sách sẻ được thêm vào giỏ hàng 
 - ![image](https://user-images.githubusercontent.com/74332737/173277422-93082b64-ade0-4a96-9fa1-468155e81f0f.png)
 = ![image](https://user-images.githubusercontent.com/74332737/173277473-6bda654e-a1c4-4d7b-8eed-651d0d1559b4.png)
