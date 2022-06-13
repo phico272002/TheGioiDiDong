@@ -2,9 +2,9 @@
 trang chủ website
 ![image](https://user-images.githubusercontent.com/72533359/173339125-ba542963-00d1-4689-8524-be606f29c11b.png)
 trang giỏ hàng 
-![image](https://user-images.githubusercontent.com/74332737/173276925-17828ba1-7044-4598-896c-7abb9e41787f.png)
+![image](https://user-images.githubusercontent.com/72533359/173341062-1c402988-a9cf-48d1-ac49-dab2fde25a0b.png)
 trang đặt hàng
-![image](https://user-images.githubusercontent.com/74332737/173276975-f7ffbc42-6ac2-4a4e-b49c-1d4e03fd5998.png)
+![image](https://user-images.githubusercontent.com/72533359/173341127-3a90eef7-a1f5-4e40-b8ab-86a4788b486f.png)
 # các tính năng của web
 1- tính năng phân loại từng cuốn sách 
 ![image](https://user-images.githubusercontent.com/72533359/173339236-0b7585d0-3eed-4965-8b34-5d4bcd3d893c.png)
