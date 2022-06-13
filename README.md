@@ -13,11 +13,11 @@ trang đặt hàng
 2- tính năng thêm sách vào giỏ hàng
 ![image](https://user-images.githubusercontent.com/72533359/173339409-21414511-dfa3-4d7d-a101-0ddd46d95f34.png)
 - khi nhấn nút add to cart thì sách sẻ được thêm vào giỏ hàng 
-- ![image](https://user-images.githubusercontent.com/74332737/173277422-93082b64-ade0-4a96-9fa1-468155e81f0f.png)
-= ![image](https://user-images.githubusercontent.com/74332737/173277473-6bda654e-a1c4-4d7b-8eed-651d0d1559b4.png)
+- ![image](https://user-images.githubusercontent.com/72533359/173339959-71f71d6c-1651-445d-8393-0afb39d662bc.png)
+= ![image](https://user-images.githubusercontent.com/72533359/173340060-d1ab3ec6-9e18-48a7-9764-69a789cf396d.png)
 3 tính năng remote giúp loại bỏ những cuốn sách không muốn khỏi giỏ hàng 
-![image](https://user-images.githubusercontent.com/74332737/173277598-972e60c9-de07-414d-9c83-e6635fbded15.png)
-![image](https://user-images.githubusercontent.com/74332737/173277618-8d3cf2ca-8724-4a22-ad2c-5ba78ac74d0c.png)
+![image](https://user-images.githubusercontent.com/72533359/173340155-8011d49b-84e2-402b-bf51-0c59e0e18a3e.png)
+![image](https://user-images.githubusercontent.com/72533359/173340240-b3db936b-f160-420a-8794-29433fedb16c.png)
 4 tính năng checkout để đặt hàng và mua sản phẩm
 ![image](https://user-images.githubusercontent.com/74332737/173277725-405a6688-7086-4f0c-a31e-d9e428e5eafd.png)
 5 trang Admin để kiểm tra cài đặt và Order khi truy cập https://localhost:44347/admin
